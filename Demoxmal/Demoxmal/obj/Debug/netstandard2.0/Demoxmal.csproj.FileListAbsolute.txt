@@ -1,0 +1,11 @@
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\bin\Debug\netstandard2.0\Demoxmal.deps.json
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\bin\Debug\netstandard2.0\Demoxmal.dll
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\bin\Debug\netstandard2.0\Demoxmal.pdb
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\obj\Debug\netstandard2.0\Demoxmal.csproj.CoreCompileInputs.cache
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\obj\Debug\netstandard2.0\Demoxmal.App.xaml.g.cs
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\obj\Debug\netstandard2.0\Demoxmal.MainPage.xaml.g.cs
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\obj\Debug\netstandard2.0\Demoxmal.AssemblyInfoInputs.cache
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\obj\Debug\netstandard2.0\Demoxmal.AssemblyInfo.cs
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\obj\Debug\netstandard2.0\Demoxmal.dll
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\obj\Debug\netstandard2.0\Demoxmal.pdb
+D:\Andriod Apps\New folder\Demoxmal\Demoxmal\Demoxmal\obj\Debug\netstandard2.0\Demoxmal.csprojResolveAssemblyReference.cache

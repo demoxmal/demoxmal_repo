@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             xmlns:local="clr-namespace:Demoxmal"
+             x:Class="Demoxmal.MainPage">
+
+
+    <Grid RowSpacing="0" BackgroundColor="White" HorizontalOptions ="FillAndExpand" VerticalOptions="FillAndExpand">
+        <ScrollView Orientation="Vertical" VerticalOptions="FillAndExpand">
+        <StackLayout HorizontalOptions="FillAndExpand">
+            <StackLayout>
+                <Image Source="image.png" HorizontalOptions="FillAndExpand" HeightRequest="200" ></Image>
+            </StackLayout>
+            <StackLayout Padding="10" HorizontalOptions="FillAndExpand">
+            <StackLayout>
+            <Label Text="Nice Adidass Sneakers" FontSize="15" TextColor="Black"/>
+            <Label
+          Text="This shoe is cool and it is almost not used.I want to swop it because Lorem lpsum is simply dummy text of the printing and typesetting industry. Lorem lpsum has been the industery's standard dummy text ever since the 1500s" TextColor="Gray" FontSize="11"/>
+            </StackLayout>
+                    <StackLayout BackgroundColor="#ddd" HeightRequest="1"/>
+
+                    <StackLayout Padding="5">
+                <Label Text="Size: 43" TextColor="Black" FontSize="15"/>
+            </StackLayout>
+                    <StackLayout BackgroundColor="#f7f8f9">
+              <StackLayout >
+                <Label Text="About the Sellet:" TextColor="Black" FontSize="15"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Image Source="profilePicture.png" HeightRequest="50" WidthRequest="50"/>
+                <StackLayout>
+                    <Label Text="Jacob H." TextColor="Black" FontSize="15"/>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="41 Years Old" TextColor="Gray" FontSize="11"/>
+                            <Label Text="   2300 Copenhagen" TextColor="Gray" FontSize="11"/>
+
+                        </StackLayout>
+                    </StackLayout>
+                
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <StackLayout Padding="5" >
+                                <Button Text="More From Seller" TextColor="White" BackgroundColor="#5d94bd" Clicked="Button_OnClicked"/>
+                </StackLayout>
+                    <StackLayout Padding="5">
+                                <Button Text=" Report " TextColor="White" BackgroundColor="#d66c6e
+" WidthRequest="160" Clicked="Button_OnClickedReport"/>
+                    </StackLayout>
+                        </StackLayout>
+                    
+                    <StackLayout BackgroundColor="#ddd" HeightRequest="1"/>
+                <StackLayout Padding="5,10">
+                            <StackLayout HorizontalOptions="EndAndExpand" BackgroundColor="#bfb6a7" Padding="5">
+                    <Label Text="I like Blue. Shall we be ShoeMates?" TextColor="White"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="EndAndExpand" >
+                    <Label Text="27 09 2018 / 11:43 am" TextColor="Gray"/>
+                </StackLayout>
+                </StackLayout>
+
+                        <StackLayout Padding="5,5">
+                            <StackLayout  BackgroundColor="white" Padding="1">
+                                <Label Text="Good idea :) My number is +45421451" TextColor="#5c5e60"/>
+                            </StackLayout>
+                            <StackLayout  >
+                                <Label Text="27 09 2018 /11:43 am" TextColor="#5c5e60" HorizontalOptions="Center"/>
+                            </StackLayout>
+                        </StackLayout>
+
+                      
+                    </StackLayout>
+
+                    <StackLayout Padding="0,10" Orientation="Horizontal">
+                    <Image Source="emoticon.png" HeightRequest="25" WidthRequest="25"/>
+                    <Entry Placeholder=" Write Message"/>
+                        <Button Text="Send" BackgroundColor="#d66c6e" TextColor="White" Clicked="Button_OnClickedSend" BorderRadius="6" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+        </ScrollView>
+    </Grid>
+
+</ContentPage>
